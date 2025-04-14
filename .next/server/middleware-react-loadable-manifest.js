@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components\\\\Layout\\\\Sidebar.tsx -> ./MobileMenuButton\":{\"id\":\"components\\\\Layout\\\\Sidebar.tsx -> ./MobileMenuButton\",\"files\":[\"static/chunks/src_components_Layout_MobileMenuButton_tsx.js\"]}}"
